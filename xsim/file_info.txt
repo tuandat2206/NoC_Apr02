@@ -1,0 +1,7 @@
+add.v,verilog,xil_defaultlib,D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/add.v,
+div2.v,verilog,xil_defaultlib,D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/div2.v,
+openNocTop.v,verilog,xil_defaultlib,D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/openNocTop.v,
+sub.v,verilog,xil_defaultlib,D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/sub.v,
+switch.v,verilog,xil_defaultlib,D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/switch.v,
+tb.sv,systemverilog,xil_defaultlib,D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/tb.sv,
+glbl.v,Verilog,xil_defaultlib,D:/SourceCode/HDL_Project/NoC_Apr02/xsim/glbl.v

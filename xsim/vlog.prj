@@ -1,0 +1,14 @@
+verilog xil_defaultlib  \
+"D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/sources_1/imports/Desktop/add.v" \
+"D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/sources_1/imports/Desktop/div2.v" \
+"D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/sources_1/imports/Desktop/openNocTop.v" \
+"D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/sources_1/imports/Desktop/sub.v" \
+"D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/sources_1/imports/Desktop/switch.v" \
+
+sv xil_defaultlib  \
+"D:/SourceCode/HDL_Project/NoC_Apr02/xsim/srcs/sim_1/imports/Desktop/tb.sv" \
+
+verilog xil_defaultlib "D:/SourceCode/HDL_Project/NoC_Apr02/xsim/glbl.v"
+
+# Do not sort compile order
+nosort
